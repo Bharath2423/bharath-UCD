@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="G5n5PKULReHIokjr-N3w">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgNocM33rZFXKYOoNAjH-1" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="443" y="20" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-2" value="SplashScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="395" y="84" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-3" value="New User --&gt; HomeScreen" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="174" width="233" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-4" value="HomeScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="397" y="279" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-5" value="ScanNowScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="309" y="410" width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-6" value="ViewCart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="486" y="410" width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-7" value="CartScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="408" y="523" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-8" value="PaymentScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="310" y="653" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-9" value="ConfirmationScreen" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="294" y="784" width="158" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-10" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="366" y="874" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-11" value="" style="curved=1;startArrow=none;;exitX=0.48;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-1" target="TgNocM33rZFXKYOoNAjH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-12" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-2" target="TgNocM33rZFXKYOoNAjH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-13" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-3" target="TgNocM33rZFXKYOoNAjH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-14" value="&quot;Click Scan Now&quot;" style="curved=1;startArrow=none;;exitX=0.28;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-4" target="TgNocM33rZFXKYOoNAjH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-15" value="&quot;Click View Cart&quot;" style="curved=1;startArrow=none;;exitX=0.73;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-4" target="TgNocM33rZFXKYOoNAjH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-16" value="&quot;Add to Cart&quot;" style="curved=1;startArrow=none;;exitX=0.73;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-5" target="TgNocM33rZFXKYOoNAjH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-17" value="&quot;Buy Now&quot;" style="curved=1;startArrow=none;;exitX=0.27;exitY=0.99;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-5" target="TgNocM33rZFXKYOoNAjH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="486" />
+              <mxPoint x="290" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-18" value="&quot;Proceed to Checkout&quot;" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.99;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-7" target="TgNocM33rZFXKYOoNAjH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-19" value="&quot;Complete Payment&quot;" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-8" target="TgNocM33rZFXKYOoNAjH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgNocM33rZFXKYOoNAjH-20" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.48;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TgNocM33rZFXKYOoNAjH-9" target="TgNocM33rZFXKYOoNAjH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
